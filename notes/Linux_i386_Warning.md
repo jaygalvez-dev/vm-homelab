@@ -81,3 +81,8 @@ It demonstrates:
 
 **Author:** Jayjay  
 **Repo Use Case:** Linux Troubleshooting Notes / Knowledge Base
+
+
+## References
+- [Ubuntu Multiarch Documentation](https://help.ubuntu.com/community/MultiArch)
+- [Debian Multiarch Wiki](https://wiki.debian.org/Multiarch)
